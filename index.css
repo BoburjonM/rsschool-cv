@@ -1,0 +1,29 @@
+body {
+    background-color: slategray;
+    color: #fff;
+}
+p {
+   font-family: "Helvetica", serif;
+}
+.header {
+    text-align: center;
+}
+.avatar {
+    width: 150px;
+    height: auto;
+    border-radius: 100%;
+}
+img {
+    width: 17px;
+    height: 17px;
+}
+section {
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+a {
+    color: #fff;
+}
+.links {
+    padding-left: 20px;
+}
